@@ -1,5 +1,3 @@
-![](banner.png)
-
 I'm a Productivity Consultant working on [The Polymod Framework](https://thepolymodframework.intxk.com).
 
 I'm interested in:
